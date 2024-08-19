@@ -1,0 +1,12 @@
+p {
+    display:flex;
+    justify-content: center;
+    color: rgb(51, 153, 124);
+}
+
+h1 {
+    display:flex;
+    justify-content:right;
+    font-display: bold;
+    font-family: Impact;
+}
